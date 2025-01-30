@@ -1,5 +1,4 @@
 import profilePic from '../assets/profilePic.jpg'
-import './card.css'
 
 function Card(){
     return (
